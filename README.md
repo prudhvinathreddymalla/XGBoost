@@ -3,6 +3,7 @@
 
 Tennessee Eastman process was developed by Eastman Chemical company to deliver a realistic industrial application process for assessing process control and monitoring methods.
 
+![alt text](https://github.com/prudhvinathreddymalla/XGBoost/blob/master/TE.png?raw=true)
 
 The TE process has five main unit: a reactor, a condenser, compressor, separator, and stripper. The process has 21 pre-programmed faults. Out of 21, only sixteen faults are known and remaining five faults are unknown.
 
